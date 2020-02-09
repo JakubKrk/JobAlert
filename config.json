@@ -1,0 +1,23 @@
+{
+    "search": [
+        {
+            "jobtitle": "Python",
+            "location": "Warszawa"
+        },
+        {
+            "jobtitle": "dfsfsdfdsf",
+            "location": "Warszawa"
+        },
+        {
+            "jobtitle": "C++",
+            "location": "Warszawa"
+        }
+    ],
+    "limit": 5,
+    "daysconsidered" : 5,
+    "chromedriver": "C:/webdriver/chromedriver.exe",
+    "linkuser": "jakubkurek.pl@gmail.com",
+    "linkpassword": "!Hello1q234R",
+    "headless": 0,
+    "timeout": 120
+}
