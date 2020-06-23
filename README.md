@@ -6,7 +6,7 @@ Ideally, you would set up Task Scheduler to execute **main.py** every few hours
 
 ![Window](Window.jpg?raw=true "Window")
 
-**Requirements**:
+**Technology**:
 * Python enviroment
 * Selenium
 * Chromedriver
